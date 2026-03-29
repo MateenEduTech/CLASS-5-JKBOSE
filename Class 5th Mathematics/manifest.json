@@ -1,0 +1,17 @@
+{
+  "name": "Class 5 Mathematics Learning App",
+  "short_name": "Maths Class 5",
+  "description": "JKBOSE Class 5 Mathematics Interactive Learning App by Mateen Yousuf",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1565C0",
+  "theme_color": "#1565C0",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "categories": ["education"],
+  "lang": "en",
+  "scope": "./"
+}

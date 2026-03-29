@@ -1,0 +1,16 @@
+{
+  "name": "Class 5 English Learning App",
+  "short_name": "English Class 5",
+  "description": "JKBOSE Class 5 English Interactive Learning App by Mateen Yousuf",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2E7D32",
+  "theme_color": "#2E7D32",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ],
+  "categories": ["education"],
+  "lang": "en"
+}
